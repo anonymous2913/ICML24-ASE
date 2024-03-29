@@ -35,8 +35,8 @@ We aim to demonstrate the qualitative comparison of the generated samples betwee
 
 ![celeba_ours_robustness.jpg2](./images/celeba_ours_robustness.png)
 
-## Text-to-image experiments with PixArt model
-### 1. SAM + PixArt
+## Text-to-image experiments with PixArt-$\alpha$ model
+### 1. SAM + PixArt-$\alpha$
 
 
 #### 1.1 Baseline (1.60s ,0%)

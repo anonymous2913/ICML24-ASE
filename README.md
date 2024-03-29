@@ -30,4 +30,7 @@ We aim to demonstrate the qualitative comparison of the generated samples betwee
 ![ours_robustness.jpg2](./images/ours_robustness.png)
 
 ### 2. CelebA + U-ViT
-#### 2.1. DPM solver with 25, 20, 15, 10step
+#### 2.1. DPM solver with 20, 18, 15, 10step
+![celeba_baseline_robustness.jpg1](./images/celeba_baseline_robustness.png)
+
+![celeba_ours_robustness.jpg2](./images/celeba_ours_robustness.png)

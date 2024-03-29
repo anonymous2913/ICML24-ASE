@@ -34,3 +34,10 @@ We aim to demonstrate the qualitative comparison of the generated samples betwee
 ![celeba_baseline_robustness.jpg1](./images/celeba_baseline_robustness.png)
 
 ![celeba_ours_robustness.jpg2](./images/celeba_ours_robustness.png)
+
+## Text-to-image experiments with PixArt model
+### 1. SAM + PixArt
+#### 1.1 DPM solver with 20step
+![baseline_pixart.jpg1](./images/baseline_pixart.png)
+
+![ours_pixart.jpg2](./images/ours_pixart.png)

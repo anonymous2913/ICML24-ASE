@@ -37,9 +37,12 @@ We aim to demonstrate the qualitative comparison of the generated samples betwee
 
 ## Text-to-image experiments with PixArt model
 ### 1. SAM + PixArt
-#### 1.1 DPM solver with 20step
+
+
+#### 1.1 Baseline (1.60s ,0%)
 ![baseline_pixart.jpg1](./images/baseline_pixart.png)
 
+#### 1.2 Ours (1.37s, 14.3%)
 ![ours_pixart.jpg2](./images/ours_pixart.png)
 
 ## Pseudo-code for fine-tuning

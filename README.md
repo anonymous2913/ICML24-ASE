@@ -41,3 +41,6 @@ We aim to demonstrate the qualitative comparison of the generated samples betwee
 ![baseline_pixart.jpg1](./images/baseline_pixart.png)
 
 ![ours_pixart.jpg2](./images/ours_pixart.png)
+
+## Pseudo-code for fine-tuning
+![pseudo_code.jpg1](./images/pseudo-code.png)

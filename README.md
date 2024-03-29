@@ -23,7 +23,7 @@ We aim to demonstrate the qualitative comparison of the generated samples betwee
 
 
 ## Ablation studies on robustness of sampling steps
-### 1. Imagnet + DiT
+### 1. ImageNet + DiT
 #### 1.1. DPM solver with 25, 20, 15, 10step
 ![baseline_robustness.jpg1](./images/baseline_robustness.png)
 
